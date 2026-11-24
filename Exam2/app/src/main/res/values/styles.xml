@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Exam2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#5267A5</item>
+    </style>
+</resources>
